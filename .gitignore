@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NotificationService/bin
+/NotificationService/obj
+/packages
+*.suo
+/.vs
