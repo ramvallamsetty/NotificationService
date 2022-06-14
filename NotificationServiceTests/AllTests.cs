@@ -5,7 +5,7 @@ using NotificationService;
 namespace NotificationServiceTests
 {
     [TestClass]
-    public class UnitTest1
+    public class AllTests
     {
         [TestMethod]
         public void CreateUserTest()
